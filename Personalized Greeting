@@ -1,0 +1,4 @@
+# Personalized Greeting
+name = input("Enter your first name ")
+surname = input("Entre your surname ")
+print("hello,",name+" "+surname,"!Welcome to python program.")
