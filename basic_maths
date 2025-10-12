@@ -1,0 +1,7 @@
+#making a calculator 
+A = int(input("enter the first number: "))
+B = int(input("enter the second number: "))
+print("ADDITION = ",A+B)
+print("SUBSTARCION = ",A-B)
+print("MUL = ",A*B)
+print("DIV = ",A/B)
